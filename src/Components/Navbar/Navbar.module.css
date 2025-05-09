@@ -1,0 +1,19 @@
+
+ nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 52px;
+  }
+
+  nav ul{
+    display: flex;
+    gap: 12px;
+    list-style: none;
+  }
+  
+nav ul li{
+    color: #2e2e2e;
+    font-family: 'poppins', sans-serif;
+    font-weight: 500;
+  }
